@@ -25,9 +25,9 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <h2>
-        2.0.0
-      </h2>
+      
+        1.0.0
+      
     </>
   )
 }
