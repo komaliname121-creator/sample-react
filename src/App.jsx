@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        <H1>1.0.0</H1>
+        1.0.0
       </p>
     </>
   )
